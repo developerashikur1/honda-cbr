@@ -1,25 +1,39 @@
+
+/* Body  */
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+
+/* Header Section */
 header{
     background-color: #264653;
 }
+
+
+
+/* Fetured Bikes 2021 Sectiion */
+
 .bike-image-color{
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
-.button-color{
-    background-color: #E76F51 !important;
-}
 
+
+
+/* Body All color Start */
 .font-colorize{
     color: #E76F51;
 }
+.button-color{
+    background-color: #E76F51 !important;
+}
+/* Body All color end */
 
 
 
 
-/* Cards */
+/* Cards Start Section*/
 
 .card-body-alignment{
     text-align: center;
@@ -32,9 +46,21 @@ header{
     color: #23A6F0
     ;
 }
+/* Cards end */
 
 
-/* Frequently asked and question */
+
+
+/* Frequently asked and question Section*/
 .heading-1{
     text-align: center;
 }
+
+
+
+/* Pricing Table Section Start*/
+
+.pricing-table-bike-background-color{
+    background-color: #26465317;
+}
+/* Pricing table Section end */
